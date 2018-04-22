@@ -16,4 +16,4 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-./app/config/constants.js
+.app.config.constants.js
